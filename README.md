@@ -154,15 +154,25 @@ Planned improvements for the next semester include:
 
 ---
 
-## Authors
+## Author
 
-Developed as part of a university project by:
+This public version of the project was created and maintained by:
 
-- Roland Kuskó  
+- Balázs Iván Vincze
+
+---
+
+## Original Team Project
+
+The full InventoryAI system was developed as part of a university semester project together with:
+
 - Ágota Vass  
-- Balázs Iván Vincze  
+- Roland Kuskó  
 
-Mentor: Mark Bence Szigeti
+Mentor: Mark Bence Szigeti  
+
+This repository includes only my personal contributions.
+
 
 ---
 
